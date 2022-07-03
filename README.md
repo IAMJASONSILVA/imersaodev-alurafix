@@ -1,1 +1,3 @@
-# imersaodev-alurafix
+# Alurflix imersaodev
+
+Esse foi o projeto onde eu aprendi a facer...
